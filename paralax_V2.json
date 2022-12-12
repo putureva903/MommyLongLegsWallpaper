@@ -1,5 +1,5 @@
 {
-  "Adsx": [
+  "Ads": [
     {
        "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
@@ -27,13 +27,13 @@
 
     }
   ],
-  "Categoriesx": [
+  "Categories": [
     {
       "name_category": "1",
       "wallpaper_url": "https://i.pinimg.com/564x/fd/48/70/fd48702db408833b70680b2da96afd23.jpg"
     }
   ],
-  "Wallpaperx": [
+  "Wallpaper": [
     {
       "id": 1,
       "name_category": "1",
